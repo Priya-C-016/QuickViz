@@ -1,0 +1,24 @@
+# Ignore the virtual environment
+myenv/
+
+# Ignore dataset files
+sample_dataset_with_outliers.csv
+
+# Ignore static files
+static/
+
+# Ignore stylesheets
+style.css
+
+# Ignore template files
+templates/
+
+# Ignore upload files
+uploads/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
