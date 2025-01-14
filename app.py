@@ -16,14 +16,14 @@ def plot_data_comparison(original_data, cleaned_data, plot_func):
     plot_func(cleaned_data)
 
 # Apply custom CSS for styling
-def local_css(file_name):
-    try:
-        with open(file_name) as f:
-            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-    except FileNotFoundError:
-        st.warning("Custom CSS file not found. Default styling applied.")
+# def local_css(file_name):
+#     try:
+#         with open(file_name) as f:
+#             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+#     except FileNotFoundError:
+#         st.warning("Custom CSS file not found. Default styling applied.")
 
-local_css("style.css")  # Ensure this file exists in your working directory
+# local_css("style.css")  # Ensure this file exists in your working directory
 
 # Function to load data
 def load_data(file):
