@@ -19,6 +19,9 @@ Visual Insights: Generates key charts and graphs for data exploration.
 
 Download Cleaned Data: Users can download the processed dataset for further analysis.
 
+![Alt Text](data.png)
+![Alt Text](data2.png)
+
 ## 📊 Technologies Used
 
 Python (for data processing and automation)
