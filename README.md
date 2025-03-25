@@ -4,6 +4,9 @@
 
 DataFix is a powerful data cleaning and visualization tool that allows users to upload raw, uncleaned data and receive a cleaned version with meaningful insights. The tool automates data preprocessing tasks like handling missing values, removing duplicates, and normalizing formats, making it easier for users to analyze and visualize their data.
 
+![Alt Text](Dashboard.png)
+
+
 ## 🔍 Features
 
 Upload Raw Data: Users can upload uncleaned datasets (CSV, Excel, JSON, etc.).
