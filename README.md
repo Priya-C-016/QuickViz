@@ -98,6 +98,6 @@ Feel free to fork this repository and contribute to improve this project! If you
 
 For any queries or collaborations, reach out via:
 
-## 📧 Email: your-priyachanchal169@gmail.com
+#### 📧 Email: your-priyachanchal169@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/priya-chanchal-050b86288/
